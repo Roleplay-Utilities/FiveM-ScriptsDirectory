@@ -1,2 +1,1 @@
-# FiveM-ScriptsDirectory
-This is where we develop the scripts we make (Public Scripts)
+Just click the folder and you can read the readme in it
