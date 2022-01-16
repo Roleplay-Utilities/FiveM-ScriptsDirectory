@@ -11,6 +11,6 @@ client_scripts {
     ''
 }
 server_scripts {
-    'RealismRPFramework/RRPF_core/versioncheck-dev.lua',
-    'RealismRPFramework/RRPF_core/versioncheck-stable.lua'
+    'versioncheck-dev.lua',
+    'versioncheck-stable.lua'
 }
