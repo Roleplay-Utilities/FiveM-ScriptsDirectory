@@ -6,4 +6,4 @@ RealismRPFramework © 2022 Mega Utilities™ - RealismRPFramework is to **NOT** 
 
 Please read the documentation for install instructions and anything else (You can also join our discord from the docs if you have any questions!)
 
-https://github.com/Roleplay-Utilities/Badges-and-Utilities/blob/main/stable-release-rrpf-stable-download.svg
+https://forthebadge.com/generator/?pbg=%2353FF00&plabel=STABLE+RELEASE&sbg=%233C9AD5&slabel=RRPF+Stable+Download
