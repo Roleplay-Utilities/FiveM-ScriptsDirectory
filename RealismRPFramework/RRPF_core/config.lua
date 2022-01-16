@@ -5,4 +5,9 @@ config = {}
 -- soon
 
 -- scripts config
--- soon
+config.discordrpc = false
+config.discordrpcapp = 'app key'
+config.discordrpcimage1 = 'image 1'
+config.discordrpcimage2 = 'image 2'
+config.discordrpcdiscord = 'discord invite url'
+-- more soon
