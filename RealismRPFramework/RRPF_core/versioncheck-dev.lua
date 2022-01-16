@@ -7,7 +7,7 @@ function checkVersion(err,responseText, headers)
 
 	if curVersion ~= responseText and tonumber(curVersion) < tonumber(responseText) then
 		print("𝕆𝕌𝕋𝔻𝔸𝕋𝔼𝔻")
-		print("\n"..resourceName.." is outdated, should be:\n"..responseText.."is:\n"..curVersion.."\nplease update it from https://github.com"..updatePath.."")
+		print("\n"..resourceName.." may be outdated, should be:\n"..responseText.."is:\n"..curVersion.."\nplease check releases tab from https://github.com"..updatePath.."")
 		print("𝕆𝕌𝕋𝔻𝔸𝕋𝔼𝔻")
 	elseif tonumber(curVersion) > tonumber(responseText) then
 		print("You somehow skipped a few versions of "..resourceName.." or the git went offline, if it's still online i advise you to update ( or downgrade? )")
