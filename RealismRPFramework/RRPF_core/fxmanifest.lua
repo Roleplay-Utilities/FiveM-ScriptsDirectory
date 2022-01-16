@@ -3,7 +3,7 @@ fx_version 'cerulean'
 games {'gta5'}
 
 author 'Mega Utilities'
-description 'RealismRoleplayFramework'
+description 'RealismRPFramework'
 
 -- What to run
 client_scripts {
