@@ -7,4 +7,4 @@ RealismRPFramework © 2022 Mega Utilities™ - RealismRPFramework is to **NOT** 
 Please read the documentation for install instructions and anything else (You can also join our discord from the docs if you have any questions!)
 
 
-<img src="https://github.com/Roleplay-Utilities/FiveM-ScriptsDirectory/blob/main/RealismRPFramework/stable-release-rrpf-stable-download.svg">
+[<img src="https://github.com/Roleplay-Utilities/FiveM-ScriptsDirectory/blob/main/RealismRPFramework/stable-release-rrpf-stable-download.svg">](https://google.com)
