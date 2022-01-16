@@ -6,4 +6,5 @@ RealismRPFramework © 2022 Mega Utilities™ - RealismRPFramework is to **NOT** 
 
 Please read the documentation for install instructions and anything else (You can also join our discord from the docs if you have any questions!)
 
-https://github.com/Roleplay-Utilities/FiveM-ScriptsDirectory/blob/main/RealismRPFramework/stable-release-rrpf-stable-download.svg
+![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
+<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
