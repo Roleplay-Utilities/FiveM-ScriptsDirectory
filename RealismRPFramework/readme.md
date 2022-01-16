@@ -11,5 +11,6 @@ Please read the documentation for install instructions and anything else (You ca
 [<img src="https://github.com/Roleplay-Utilities/FiveM-ScriptsDirectory/blob/main/RealismRPFramework/prerelease-rrpf-dev-download.svg">](https://google.com)
 
 # IMPORTANT FOR DOWNLOADERS
-If you get the dev version it still has a version check (if it works) if it tells you it's outdated and you see no new release in the releases tab do not panic
+If you get the dev version it still has a version check (if it works) if it tells you it's outdated and you see no new release in the releases tab do not panic .
 If you get the stable version it has a version check (if it works) if it tells you its outdated check the releses tab!(We also mention new releases and upload them to your portal if you have an account)
+**ONLY EVER UPDATE IF THERE IS A NEW RELEASE IN THE RELEASES TAB!**
