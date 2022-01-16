@@ -1,1 +1,1 @@
-Just click the folder and you can read the readme in it
+You can find the public fivem scripts we work on here
