@@ -16,5 +16,5 @@ function checkVersion(err,responseText, headers)
 	end
 end
 
-PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."Roleplay-Utilities/ScriptsDirectory-FiveM/blob/main/RealismRPFramework/RRPF_core", checkVersion, "GET")
+PerformHttpRequest("https://raw.githubusercontent.com"..updatePath.."version-dev", checkVersion, "GET")
 end)
