@@ -8,3 +8,4 @@ Please read the documentation for install instructions and anything else (You ca
 
 
 [<img src="https://github.com/Roleplay-Utilities/FiveM-ScriptsDirectory/blob/main/RealismRPFramework/stable-release-rrpf-stable-download.svg">](https://google.com)
+[<img src="https://github.com/Roleplay-Utilities/FiveM-ScriptsDirectory/blob/main/RealismRPFramework/prerelease-rrpf-dev-download.svg">](https://google.com)
